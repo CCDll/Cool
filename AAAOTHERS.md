@@ -1,1 +1,1 @@
-// https://raw.githubusercontent.com/CCDll/nothing/main/bye.bat \\
+// https://raw.githubusercontent.com/CCDll/nothing/main/bye.txt \\
